@@ -6,7 +6,7 @@
 
 ## CircleCI
 
-[![CircleCI](https://circleci.com/gh/microservices-aspnetcore/hello-world.svg?style=svg)](https://circleci.com/gh/microservices-aspnetcore/hello-world)
+[![CircleCI](https://circleci.com/gh/microservices-aspnetcore-zh/hello-world.svg?style=svg)](https://circleci.com/gh/microservices-aspnetcore-zh/hello-world)
 
 # Hello World
 
