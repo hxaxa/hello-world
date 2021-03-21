@@ -29,6 +29,6 @@ deploy:
         username: $USERNAME
         password: $PASSWORD
         tag: latest
-        repository: dotnetcoreserviceszh/hello-world
+        repository: huangskar/hello-world
         registry: https://registry.hub.docker.com
         entrypoint: "/pipeline/source/app/docker_entrypoint.sh"
